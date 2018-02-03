@@ -26,7 +26,7 @@ description: "Home Page"
 					<div class="item-label">
 						<div class="item-title"><a href="{{ posts.url }}" title="Visit {{ posts.title }}">{{ posts.title }}</a></div>
 						<div class="item-meta clearfix">
-						<div class="item-meta-ico bg-ico-{{ posts.categories }}" style="background: url('style/bg-ico.png') no-repeat;background-size: 40px auto;"></div>
+						<div class="item-meta-ico bg-ico-{{ posts.categories }}" style="background: url('{{ site.url }}/style/bg-ico.png') no-repeat;background-size: 40px auto;"></div>
              <div class="item-meta-cat">
 				 <a href="/tags#{{ posts.categories }}" title="Visit {{ posts.categories }}" data-hover="{{ posts.categories }}">{{ posts.categories }}</a>
 				 <a href="/archives#{{ posts.date | date: "%Y"}}" title="Visit {{ posts.date | date: "%Y"}}" data-hover="{{ posts.date | date: "%F"}}">{{ posts.date | date: "%F"}}</a></div>

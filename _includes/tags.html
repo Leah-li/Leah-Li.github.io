@@ -1,15 +1,12 @@
 <div class="post-header-thumb bg-white}">
-  <div class="post-header-thumb-op"> 
-  </div>
-  <div class="post-header-thumb">
-    <div class="post-header-thumb-container">
+  <div class="post-header-thumb-container">
     <h1 class="post-title" itemprop="name headline">
       {{ page.title }}
     </h1>
       {% if page.categories %}
     <div class="post-data">  
     <time datetime="{{ page.date | date: '%F'}}" itemprop="datePublished">
-      Post Date：{{ page.date | date: "%F"}}
+      Post: {{ page.date | date: "%F"}}
     </time>
     <a href="/tags#{{ page.categories }}" title="Visit {{ page.categories }}" data-hover="Category: {{ page.categories }}">
       Category: {{ page.categories }}
@@ -43,7 +40,6 @@
       {% endif %}
       {% assign tags_list = nil %}
       {% endunless %} 
+    </div>
   </div>
-</div>
-</div>
 </div>
