@@ -5,8 +5,10 @@ description: 有亲人的地方就是家
 headline: 
 categories: Blog  
 tags: 
-  - Reading
-imagefeature:  
+  - Book
+  - Family 
+  - History 
+imagefeature: TheArrival.jpg
 comments: ture  
 published: true  
 ---
@@ -15,7 +17,7 @@ published: true
 翻着 *Arrival* 的时候，想到了我们家的故事。 
 
 <figure>
-	<img src="{{ site.url }}/images/TheArrival/TheArrival.jpg">
+	<img src="/images/TheArrival/TheArrival1.jpg">
 </figure>
 
 我们并不是这座长江南岸小镇的原住民。大概在某次饥荒的时候，中国历史上的各种饥荒逃难太多，甚至我爷爷奶奶都没法记清楚是具体那一年的故事了。一家男女老少，提着挑着担着家什行李，背着挑着牵着大大小小的娃，就这样风尘仆仆地上路走向远方。 
@@ -33,6 +35,10 @@ Shaun 的这本 *Arrival*，不知会不会给我的梦境增添一些细节呢�
 还好一切辛苦都是值得，你看他寄信时的小心翼翼，等待时的忐忑，最后是画面上的两行脚印相遇，一家三口紧紧地抱在一起。 
 
 而以后的故事呢，就像诸多的结局一样，一家人从此快快乐乐地生活在一起。肯定也有风雨，但在同一张桌子上喝同一锅热粥，还有什么样的抵达能幸福过此？ 
+
+<figure>
+	<img src="/images/TheArrival/TheArrival2.jpg">
+</figure>
 
 想起老妈那个颇文艺的说法：有亲人的地方就是家。 
 

@@ -53,8 +53,7 @@ gems:
                   - jekyll-paginate
 
 # 分页
-paginate: 15
-# paginate_path:    "liberxuepage:num"
+paginate: 12
 gems:             [jekyll-paginate]
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks

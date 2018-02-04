@@ -1,11 +1,12 @@
 ---
 layout: post  
-title: oh 致我亲爱的数学  
+title: Oh 致我亲爱的数学  
 description: 或许，是该停下脚步的时候了。      
 headline: 
 categories: Blog  
 tags: 
-  - Life  
+  - Life
+  - College
 imagefeature:  
 comments: ture  
 published: true  

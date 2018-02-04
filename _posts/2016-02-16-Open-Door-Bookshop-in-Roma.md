@@ -7,6 +7,8 @@ categories: Blog
 tags: 
   - Travel
   - Life  
+  - Book  
+imagefeature: BookshopInRoma.jpg  
 comments: ture  
 published: true  
 ---  

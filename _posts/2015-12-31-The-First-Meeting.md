@@ -8,7 +8,7 @@ tags:
   - Life
   - Review
   - Think  
-imagefeature:  
+imagefeature: FourLittleCute.jpg  
 comments: ture
 ---
 
