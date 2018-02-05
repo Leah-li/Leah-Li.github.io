@@ -6,7 +6,9 @@ headline:
 categories: Blog
 tags: 
   - Life
-imagefeature: 
+  - People 
+  - Travel 
+imagefeature: FeelingLight.jpg 
 comments: ture
 published: true
 ---

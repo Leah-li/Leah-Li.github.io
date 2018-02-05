@@ -5,8 +5,10 @@ description: 这个社会大得有点让我恐慌，但我想我应该不害怕�
 headline: 
 categories: Blog  
 tags: 
-  - Life  
-imagefeature:  
+  - Life 
+  - Film 
+  - Collage  
+imagefeature: Baraka.jpg  
 comments: ture  
 published: true  
 ---

@@ -5,8 +5,9 @@ description: 躺在床上听淅淅沥沥的雨声，有点像回到了小时候�
 headline: 
 categories: Blog  
 tags: 
-  - Life  
-imagefeature:  
+  - Life 
+  - Hometown  
+imagefeature: OneRainNight.jpg 
 comments: ture  
 published: true  
 ---

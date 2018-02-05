@@ -5,8 +5,8 @@ description: 我与一只小狐狸的故事
 headline: 
 categories: Blog
 tags: 
-  - Story
-imagefeature: 
+  - Story  
+imagefeature: LittleFox.jpg 
 comments: ture
 published: true
 ---

@@ -6,7 +6,9 @@ headline:
 categories: Blog
 tags: 
   - Life
-imagefeature: 
+  - Travel 
+  - People 
+imagefeature: OnTheRoad.jpg  
 comments: ture
 published: true
 ---
