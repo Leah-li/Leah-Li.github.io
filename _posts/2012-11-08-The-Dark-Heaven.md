@@ -5,7 +5,7 @@ description: 他失去了这个五颜六色的世界，可是无疑，他拥有�
 headline: 
 categories: Blog
 tags: 
-  - Life
+  - Tibetan
   - People 
   - Travel 
 imagefeature: FeelingLight.jpg 

@@ -3,17 +3,18 @@ layout: post
 title: 藏语课  
 description: 在新华书店，面对一堆藏文课本，折腾了好久，好不容易才确定了这一本是小学一年级的藏文课本。      
 headline: 
-categories: Blog  
+categories: Blog 
+date: 2011-08-16 01:05:04  
 tags: 
-  - Life
+  - Tibet 
   - Travel  
-imagefeature:  
+imagefeature: TibetanBookCover.jpg   
 comments: ture  
 published: true  
 ---
 
 
-2011-08-16 01:05:04
+
 
 在新华书店，面对一堆藏文课本，折腾了好久，好不容易才确定了这一本是小学一年级的藏文课本。
 
@@ -45,3 +46,5 @@ published: true
 ![](/images/TibetBookPagesInside.jpg)
 
 装下了大家多少笑声的藏语课本。
+
+Post at 2011-08-16 01:05:04

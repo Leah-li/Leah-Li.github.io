@@ -3,17 +3,19 @@ layout: post
 title: 一楼，左转，第三个房间  
 description: 当我再告诉别人我的新地址，不能说出那个熟悉得不能再熟悉，顺口得不能再顺口的 16 宿 113 时，总感觉有些怪怪的。      
 headline: 
-categories: Blog  
+categories: Blog 
+date: 2011-08-16 01:05:04 
 tags: 
-  - Life  
-imagefeature:  
+  - Collage 
+  - People   
+imagefeature: NankaiUniversity.jpg 
 comments: ture  
 published: true  
 ---
 
 
 
-2011-08-22 21:50:50
+
 
 当我再告诉别人我的新地址，不能说出那个熟悉得不能再熟悉，顺口得不能再顺口的 16 宿 113 时，总感觉有些怪怪的。
 
@@ -32,3 +34,6 @@ published: true
 只希望，下学期的日子里，不要惯性地走进一楼，左转，第三个房间，掏出钥匙的时候，才突然明白。那时，是不是只剩下了一点点怅然所失与不知所措？
 
 离别过后，只剩下了偶尔的相见与远远的想念。
+
+
+Posted at 2011-08-22 21:50:50

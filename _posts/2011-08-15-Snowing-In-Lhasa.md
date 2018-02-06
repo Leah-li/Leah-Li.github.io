@@ -3,17 +3,17 @@ layout: post
 title: 拉萨乱雪  
 description: 拉萨乱雪实在不是一个好名字，这个「乱」字配不上拉萨的感觉。但是并不妨碍喜欢这首歌，无论是调子还是歌词。      
 headline: 
-categories: Blog  
+categories: Blog
+date: 2011-08-15 23:55:11  
 tags: 
-  - Life
-  - Travel  
-imagefeature:  
+  - Song 
+  - Travel
+  - Tibet  
+imagefeature: LhasaSnowing.jpg  
 comments: ture  
 published: true  
 ---
 
-
-2011-08-15 23:55:11
 
 > 拉萨雪纷乱了几千年  
 > 安静堆积到红尘湮灭  
@@ -76,3 +76,5 @@ published: true
 虽然光线不好，角度不好，相机也不好，但我还是喜欢我的布达拉，因为我能看见那个举着相机的自己……
 
 ![](/images/TravelTibetInMyEyes.jpg)
+
+Posted at 2011-08-15 23:55:11

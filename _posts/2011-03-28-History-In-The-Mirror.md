@@ -6,14 +6,15 @@ headline:
 categories: Blog  
 tags: 
   - Talk
-  - Book  
-imagefeature:  
+  - Book 
+  - History   
+imagefeature: 100PeopleInTenYears.jpg  
 comments: ture  
 published: true  
 ---
 
 
-2011-03-28 23:37:36
+
 
 从来以为，文革只是几句荒诞的口号，几幅不可理喻的旧照片，几个仿佛定格在上个世纪的关键词。还有那些所谓的辩证唯物主义的评价。直到走近了那《一百个人的十年》，才感觉到文革的存在，透过他们的无奈与悲哀。
 
@@ -28,3 +29,6 @@ published: true
 可是，我们该如何面对那些被陪葬的人生？
 
 记忆？忏悔？反思？都只是隔着镜子的触摸，说不出的苍白与无力。
+
+
+Posted at 2011-03-28 23:37:36

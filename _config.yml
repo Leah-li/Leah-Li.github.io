@@ -71,7 +71,7 @@ kramdown:
   enable_coderay: false
 
 # Defaults for posts
-imagefeature:    "fantasy.jpg" # We don't want posts without a header image, that whould mean white on white
+imagefeature:    "Max.jpg" # We don't want posts without a header image, that whould mean white on white
 bg-image:        "/style/bg-ico.png"
 istop:           true
 comments:        true

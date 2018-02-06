@@ -4,8 +4,10 @@ title: "Like kissing"
 description:   
 headline:   
 category: Quote  
-tags:   
-  imagefeature:   
+tags:  
+  - Motto 
+  - Lifetime 
+imagefeature: CandySolid.jpg  
 comments: true  
 published: true  
 ---

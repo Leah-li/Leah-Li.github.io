@@ -5,9 +5,9 @@ description: 其实我一直觉得《夏目友人帐》不算是一个悲剧，�
 headline: 
 categories: Blog  
 tags: 
-  - Life 
-  - TV 
-imagefeature:  
+  - Feeling  
+  - TV  
+imagefeature: Natsume.jpg  
 comments: ture  
 published: true  
 ---

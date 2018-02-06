@@ -3,16 +3,18 @@ layout: post
 title: 昨天你不在的赵沽里五年级教室  
 description: 昨日所闻
 headline: 
-categories: Blog  
+categories: Blog 
+date: 2011-11-12 21:09:07  
 tags: 
-  - Life 
-  - Talk 
-imagefeature:  
+  - Collage  
+  - Talk
+  - People  
+imagefeature: Colorful.jpg   
 comments: ture  
 published: true  
 ---
 
-2011-11-12 21:09:07
+
 
 1. 你没有来，你的那群小男孩都问你来着呢，我告诉他们：「哥哥找工作去了」。他们一脸迷惑怔怔的表情真可爱，对呢，工作对他们来说是好遥远好遥远的事情呢。要是我小时候，可能更不理解，工作为什么要找呢？？
 2. 常明洋颇为得意地说：「哥哥告诉我他的 QQ 号了，我已经加他为好友了。」旁边一个立马反驳：「那又不是你的 QQ 号，是你爸的。」「我爸的--反正是我的--我们一起的……」
@@ -28,3 +30,6 @@ published: true
 10. 你的张森有点喜欢生气发脾气呢。
 11. 我写这篇的目的呢，就是……嗯……你知道的，课堂报告既然在你那里，所以……帮忙……顺便……
 12. PS：祝顺顺当当地找到好工作呢……
+
+
+Posted at 2011-11-12 21:09:07

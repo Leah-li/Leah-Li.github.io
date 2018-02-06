@@ -5,9 +5,9 @@ description: 一个一个的小问题，一下一下扣心扉
 headline: 
 categories: Blog  
 tags: 
-  - Life
+  - Mind 
   - Talk  
-imagefeature:  
+imagefeature: Writing.jpg  
 comments: ture  
 published: true  
 ---

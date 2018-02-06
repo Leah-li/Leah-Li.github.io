@@ -2,18 +2,20 @@
 layout: post  
 title: 瞎子花满楼  
 description: 「你能不能活得愉快，问题并不在于你是不是个瞎子？而在于你是不是真的喜欢你自己的生命？是不是真的想快快乐乐的活下去。」     
-headline: 
-categories: Blog  
+headline:  
+categories: Blog
+date: 2011-09-10 21:05:59  
 tags: 
-  - Life
-  - Book  
-imagefeature:  
+  - People 
+  - Book 
+  - Snow  
+imagefeature: Huamanlou.jpg  
 comments: ture  
 published: true  
 ---
 
 
-2011-09-10 21:05:59
+
 
 瞎子与花满楼，仿佛好像就是这个世界上最顺其自然的搭配。
 

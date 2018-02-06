@@ -5,15 +5,13 @@ description: 一字一句，与被勾起的回忆
 headline: 
 categories: Blog  
 tags: 
-  - Life  
   - Travel 
-imagefeature:  
+  - Tibetan 
+imagefeature: OnTibetanAntelopes.jpg 
 comments: ture  
 published: true  
 ---
 
-
-2012-09-15 10:51:21
 
 一些天以前了吧，好久没上 QQ 了。一个以前的客人消息和我说，前些日子又去西藏了，还住了松林居，和老板聊到了我，老板的评价是:「她挺好的，就是有点懒。」
 
@@ -28,3 +26,7 @@ published: true
 有些想念，不用告诉，这些思绪大概也会化为祥云，萦绕在对方的周围，带去好运气吧。嗯，我相信这一点。
 
 再想了想，哈，确实觉得那一个月，自己挺懒的，本来可以做更多事情的。啊喂，可是老板，我怎么感觉你女儿来了之后，你喜欢我和她玩超过我干活呢?--不过我们确实成了朋友，她是一个好姐姐~~可爱
+
+
+
+Posted at 2012-09-15 10:51:21

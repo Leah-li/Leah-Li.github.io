@@ -7,7 +7,8 @@ categories: Blog
 tags: 
   - Life 
   - Think 
-imagefeature:  
+  - Book 
+imagefeature: QuietMoon.jpg 
 comments: ture  
 published: true  
 ---
