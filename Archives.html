@@ -9,7 +9,7 @@ description: "博文归档"
     {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
     {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
     {% if forloop.first %}
-  	<div class="categorys-item">
+  	<div class="categorys-x">
 	<div class="categorys-title" id="{{ this_year }}">
 			{{ this_year }}
 		</div>

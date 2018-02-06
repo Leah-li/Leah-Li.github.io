@@ -6,7 +6,7 @@ headline:
 categories: Blog  
 tags: 
   - Life
-  - College
+  - Collage
 imagefeature:  
 comments: ture  
 published: true  
