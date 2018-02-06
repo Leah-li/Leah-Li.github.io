@@ -30,9 +30,6 @@ links:
   - name:         Home
     url:          /
     external:     true
-  - name:         Books 
-    url:          /Books
-    external:     true
   - name:         Archives
     url:          /Archives
     external:     false
