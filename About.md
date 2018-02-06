@@ -6,7 +6,7 @@ permalink: /About/
 ---
 
 <figure>
-  <img src="{{ site.url }}/style/Leah.png">
+  <img src="{{ site.url }}/style/logo.png">
 </figure>
 
 I'm Leah Li.
